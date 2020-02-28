@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">WhackAMole</string>
+    <string name="text_stuff">
+        The mole and his partner in crime, Mr. Sprinkles the cat, are trying to steal your chips! Click them to keep them away and get points!
+    </string>
 </resources>
